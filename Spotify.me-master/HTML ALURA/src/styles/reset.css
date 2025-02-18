@@ -1,0 +1,54 @@
+/* reset.css */
+
+/* Remove margens e preenchimentos padrão */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos de texto padrão */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Remove o sublinhado de links */
+a {
+    text-decoration: none;
+}
+
+/* Remove bordas dos elementos de formulário */
+input,
+button,
+textarea,
+select {
+    border: none;
+    outline: none;
+}
+
+/* Remove a formatação de lista padrão */
+ul,
+ol {
+    list-style: none;
+}
+
+/* Define o estilo de borda para todos os elementos de formulários */
+input,
+select,
+textarea {
+    border: 1px solid #ccc;
+}
+
+/* Remove o estilo de tabelas padrão */
+table {
+    border-collapse: collapse;
+}
+
+/* Define a largura da imagem para 100% do contêiner */
+img {
+    max-width: 100%;
+    height: auto;
+}

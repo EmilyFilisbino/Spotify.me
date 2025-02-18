@@ -1,0 +1,54 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Oficina G3",
+        "genre": "Rock Cristão Nacional",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb84b8e23eed0e28d067a7a653"
+      },
+      {
+        "id": 2,
+        "name": "Fireflight",
+        "genre": "Rock Internacional",
+        "urlImg": "https://i.scdn.co/image/ab67616d00001e02547298f7c7cc0f4059e5f693"
+      },
+      {
+        "id": 3,
+        "name": "Resgate",
+        "genre": "Rock Cristão Nacional",
+        "urlImg": "https://i.scdn.co/image/ab67616d00001e029af83152bfbd7680ece9ef78"
+      },
+      {
+        "id": 4,
+        "name": "DJ Alok",
+        "genre": " Eletrônica - Remix", 
+        "urlImg": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8454ecba2f5a217b25474cdc7c"
+      },
+      {
+        "id": 5,
+        "name": "MPB",
+        "genre": "Musica Popular Brasileira",
+        "urlImg": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842f5f3c0a7106fe2db981ae1f"
+      },
+      {
+        "id": 6,
+        "name": "Anne-Marie",
+        "genre": "Pop Internacional",
+        "urlImg": "https://i.scdn.co/image/ab67616d0000b273d04b0657298bd6401896de5e"
+      },
+      {
+        "id": 7,
+        "name": "sea Shanty Metal",
+        "genre": "Músicas de Época (Piratas)",
+        "urlImg": "https://i.scdn.co/image/ab67616d0000b27327121daa8136d00aa6402726"
+      },
+      {
+        "id": 8,
+        "name": "Indefinido",
+        "genre": " Lo-fi Chill",
+        "urlImg": "https://i.scdn.co/image/ab67616d00001e0211d7d506c6da8d5d379b690a"
+      }
+      
+    
+    ]
+  }

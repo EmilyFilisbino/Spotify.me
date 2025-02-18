@@ -1,0 +1,10 @@
+
+/* Fonte */
+:root {
+    --font-Open--Sans: 'Open Sans', sans-serif;
+/* Cores */
+--bg-icon: #200946;
+/*Flecha de voltar*/
+--bg-arrow-color: rgba(57, 3, 128, 0.5);
+}
+
